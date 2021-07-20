@@ -1,0 +1,32 @@
+Feature Name,p Value
+Age,5.61E-06
+Albumin,7.66E-01
+Alkaline Phosphatase,0.012792
+BMI,3.32E-01
+Breathlessness,5.29E-09
+C-Reactive Proteins,3.89E-11
+Chloride,0.4272975772
+Cough,0.000664264248
+Creatinine,0.6985347753
+Diabetes,0.1565388822
+Direct Bilirubin,0.6209435705
+Fever,1
+Gender,1.77E-01
+Heart Condition,0.1742293092
+Hemoglobin,0.6841261333
+Hypertension,0.03343931123
+Platelet Count,0.05269396
+Potassium,1.18E-01
+Presence of Comorbidity,0.007286539949
+Presence of Symptoms,
+Random Blood Sugar,0.6583692842
+Respiratory Rate,1.39E-17
+SGOT,0.0001534941
+SGPT,0.186006367
+Sodium,0.01817930486
+SPO2,0.7732586528
+Temperature,1.85E-01
+TLC Count,4.21E-05
+Total Bilirubin,2.18E-01
+Total Proteins,0.0085485
+Urea,2.68E-05
